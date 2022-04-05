@@ -3,7 +3,7 @@
    tasks:
    - name: Clone a github repository
      git:
-       repo: https://github.com/vishalj1412/new-chat-app
+       repo: https://github.com/priyanka897-star/chatapp
        dest: /home/ubuntu/new/
        clone: yes
        update: yes
